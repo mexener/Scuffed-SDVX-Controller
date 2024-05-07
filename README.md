@@ -4,12 +4,14 @@ Scuffed SDVX Controller based on speedypotato's Pocket SDVX Pico.
 
 # Firmware
 
-It is using Firmware from speedypotato (v20220705 Pocket SDVX Pico v4) which can be found here: https://github.com/speedypotato/Pico-Game-Controller/releases
+It is using Firmware from speedypotato (v20220705 Pocket SDVX Pico v4) which can be found here: <br />
+https://github.com/speedypotato/Pico-Game-Controller/releases
 
 # Video
 
-[![Video](https://img.youtube.com/vi/ihb2PBFyHsk/0.jpg)](https://www.youtube.com/watch?v=ihb2PBFyHsk)
+[![Video](https://img.youtube.com/vi/ihb2PBFyHsk/0.jpg)](https://www.youtube.com/watch?v=ihb2PBFyHsk).
 
+___
 
 ![Controller](Controller.jpg)
 
